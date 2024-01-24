@@ -1,3 +1,4 @@
 data
 .Ds_store
 *.pt
+*.pth
